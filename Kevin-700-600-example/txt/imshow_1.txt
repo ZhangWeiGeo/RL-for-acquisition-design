@@ -1,0 +1,2567 @@
+Saved target_hes_ref
+
+
+
+
+
+ output_name=target_hes_ref.png
+Key: x1beg, Value: 2.8000000000000003
+
+Key: x1end, Value: 3.8000000000000003
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 3.2
+
+Key: x2end, Value: 4.7
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.03125
+
+Key: vmax, Value: 0.04878048598766327
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: target_hes_ref.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: seismic
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (150, 100)
+array_info max is 0.09756097197532654 at index (array(0), array(86))
+array_info min is -0.0625 at index (array(9), array(3))
+array_info mean is 0.00023650084040127695
+array_info std is 0.009007466025650501
+array_info rms is 0.009010570123791695
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is False
+array_memory(array) is 0.057220458984375 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04407ba6a0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f0443d6c8e0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−2}}\\mathdefault{}$')
+
+Key: base_name, Value: target_hes_ref
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved slope_hes_ref
+
+
+
+
+
+ output_name=slope_hes_ref.png
+Key: x1beg, Value: 2.8000000000000003
+
+Key: x1end, Value: 3.8000000000000003
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 3.2
+
+Key: x2end, Value: 4.7
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.0033333338797092438
+
+Key: vmax, Value: 0.0029411769937723875
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: slope_hes_ref.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: seismic
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (150, 100)
+array_info max is 0.005882353987544775 at index (39, 48)
+array_info min is -0.0066666677594184875 at index (73, 55)
+array_info mean is 3.0849685117573244e-06
+array_info std is 0.0003276810748502612
+array_info rms is 0.00032769556855782866
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is False
+array_memory(array) is 0.057220458984375 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04405ab6d0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04407a4c70>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: slope_hes_ref
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved slope_hes_vp
+
+
+
+
+
+ output_name=slope_hes_vp.png
+Key: x1beg, Value: 2.8000000000000003
+
+Key: x1end, Value: 3.8000000000000003
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 3.2
+
+Key: x2end, Value: 4.7
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: 0.0
+
+Key: vmax, Value: 150.0
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: slope_hes_vp.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: seismic
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (150, 100)
+array_info max is 300.0 at index (40, 48)
+array_info min is 0.0 at index (0, 0)
+array_info mean is 21.899999618530273
+array_info std is 78.04095458984375
+array_info rms is 81.05553436279297
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is False
+array_memory(array) is 0.057220458984375 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044072aca0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04405aba90>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{2}}\\mathdefault{}$')
+
+Key: base_name, Value: slope_hes_vp
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved output1
+
+
+
+
+
+ output_name=output1.png
+Key: x1beg, Value: 2.8000000000000003
+
+Key: x1end, Value: 3.8000000000000003
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 3.2
+
+Key: x2end, Value: 4.7
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -150.0
+
+Key: vmax, Value: 150.0
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: output1.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: seismic
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (150, 100)
+array_info max is 300.0 at index (39, 48)
+array_info min is -300.0 at index (48, 55)
+array_info mean is 0.0
+array_info std is 22.97825050354004
+array_info rms is 22.97825050354004
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.057220458984375 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044070f400>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f044066bcd0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{2}}\\mathdefault{}$')
+
+Key: base_name, Value: output1
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved output2
+
+
+
+
+
+ output_name=output2.png
+Key: x1beg, Value: 2.8000000000000003
+
+Key: x1end, Value: 3.8000000000000003
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 3.2
+
+Key: x2end, Value: 4.7
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.0033333338797092438
+
+Key: vmax, Value: 0.0029411769937723875
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: output2.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: seismic
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (150, 100)
+array_info max is 0.005882353987544775 at index (39, 48)
+array_info min is -0.0066666677594184875 at index (73, 55)
+array_info mean is 3.0849685117573244e-06
+array_info std is 0.0003276810748502612
+array_info rms is 0.00032769556855782866
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.057220458984375 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044070f610>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f044071d790>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: output2
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/part-25-25-z-15-x-10
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/part-25-25-z-15-x-10.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 0.25
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 0.25
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.004943462088704109
+
+Key: vmax, Value: 0.007644114084541798
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/part-25-25-z-15-x-10.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (25, 25)
+array_info max is 0.007644114084541798 at index (array(12), array(12))
+array_info min is -0.004943462088704109 at index (array(8), array(12))
+array_info mean is -2.7583837436395697e-07
+array_info std is 0.001451063551940024
+array_info rms is 0.001451063551940024
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.002384185791015625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044070f040>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f0443d6cf40>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/part-25-25-z-15-x-10
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/full-25-25-z-15-x-10
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/full-25-25-z-15-x-10.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 0.25
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 0.25
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.04897558316588402
+
+Key: vmax, Value: 0.07592076808214188
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/full-25-25-z-15-x-10.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (25, 25)
+array_info max is 0.07592076808214188 at index (array(12), array(12))
+array_info min is -0.04897558316588402 at index (array(8), array(12))
+array_info mean is -3.875064976455178e-06
+array_info std is 0.014424665831029415
+array_info rms is 0.01442466676235199
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.002384185791015625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044070f940>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04407757f0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−2}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/full-25-25-z-15-x-10
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/part-25-25-z-15-x-11
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/part-25-25-z-15-x-11.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 0.25
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 0.25
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.0044621569104492664
+
+Key: vmax, Value: 0.00711319874972105
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/part-25-25-z-15-x-11.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (25, 25)
+array_info max is 0.00711319874972105 at index (array(12), array(12))
+array_info min is -0.0044621569104492664 at index (array(8), array(12))
+array_info mean is -1.3874441719963215e-06
+array_info std is 0.0013336341362446547
+array_info rms is 0.0013336348347365856
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.002384185791015625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04406a9790>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04405ab670>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/part-25-25-z-15-x-11
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/full-25-25-z-15-x-11
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/full-25-25-z-15-x-11.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 0.25
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 0.25
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.04415491595864296
+
+Key: vmax, Value: 0.07055089622735977
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/full-25-25-z-15-x-11.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (25, 25)
+array_info max is 0.07055089622735977 at index (array(12), array(12))
+array_info min is -0.04415491595864296 at index (array(8), array(12))
+array_info mean is -7.546973392891232e-06
+array_info std is 0.01324665267020464
+array_info rms is 0.013246655464172363
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.002384185791015625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04407e2580>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04406377f0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−2}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/full-25-25-z-15-x-11
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/part-25-25-z-16-x-10
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/part-25-25-z-16-x-10.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 0.25
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 0.25
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.004576465580612421
+
+Key: vmax, Value: 0.007246915716677904
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/part-25-25-z-16-x-10.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (25, 25)
+array_info max is 0.007246915716677904 at index (array(12), array(12))
+array_info min is -0.004576465580612421 at index (array(8), array(12))
+array_info mean is -1.001140503831266e-06
+array_info std is 0.001365170581266284
+array_info rms is 0.0013651710469275713
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.002384185791015625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044068fb50>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04407baa00>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/part-25-25-z-16-x-10
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/full-25-25-z-16-x-10
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/full-25-25-z-16-x-10.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 0.25
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 0.25
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.045585501939058304
+
+Key: vmax, Value: 0.07214228808879852
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/full-25-25-z-16-x-10.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (25, 25)
+array_info max is 0.07214228808879852 at index (array(12), array(12))
+array_info min is -0.045585501939058304 at index (array(8), array(12))
+array_info mean is -1.0038256732514128e-05
+array_info std is 0.013603337109088898
+array_info rms is 0.013603340834379196
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.002384185791015625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04404c70a0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04405de700>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−2}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/full-25-25-z-16-x-10
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/part-25-25-z-16-x-11
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/part-25-25-z-16-x-11.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 0.25
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 0.25
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.004519982263445854
+
+Key: vmax, Value: 0.007341855205595493
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/part-25-25-z-16-x-11.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (25, 25)
+array_info max is 0.007341855205595493 at index (array(12), array(12))
+array_info min is -0.004519982263445854 at index (array(15), array(12))
+array_info mean is -1.1744499062160685e-07
+array_info std is 0.0013213217025622725
+array_info rms is 0.0013213218189775944
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.002384185791015625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04405542b0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f044079c370>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/part-25-25-z-16-x-11
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/full-25-25-z-16-x-11
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/full-25-25-z-16-x-11.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 0.25
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 0.25
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.044766996055841446
+
+Key: vmax, Value: 0.07288889586925507
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/full-25-25-z-16-x-11.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (25, 25)
+array_info max is 0.07288889586925507 at index (array(12), array(12))
+array_info min is -0.044766996055841446 at index (array(15), array(12))
+array_info mean is -3.579497388273012e-06
+array_info std is 0.013126365840435028
+array_info rms is 0.013126366771757603
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.002384185791015625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f05b6c1be50>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04421e0670>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−2}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/full-25-25-z-16-x-11
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/target_sys1
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/target_sys1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 1.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 1.5
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.0019712564535439014
+
+Key: vmax, Value: 0.0016766763292253017
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/target_sys1.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (150, 100)
+array_info max is 0.0033533526584506035 at index (array(8), array(97))
+array_info min is -0.003942512907087803 at index (array(10), array(11))
+array_info mean is 1.6642163700453239e-06
+array_info std is 0.00045609287917613983
+array_info rms is 0.00045609590597450733
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.057220458984375 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f0414147970>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04140ecac0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/target_sys1
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/slope_sys1
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/slope_sys1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 1.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 1.5
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -2.576843871793244e-05
+
+Key: vmax, Value: 3.2113697670865804e-05
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/slope_sys1.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (150, 100)
+array_info max is 6.422739534173161e-05 at index (array(39), array(48))
+array_info min is -5.153687743586488e-05 at index (array(92), array(24))
+array_info mean is -4.462098246449386e-09
+array_info std is 4.812909992324421e-06
+array_info rms is 4.812912266061176e-06
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.057220458984375 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f041422f6d0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04140440a0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−5}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/slope_sys1
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/target_sys_final2
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/target_sys_final2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 1.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 1.5
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.0019620037637650967
+
+Key: vmax, Value: 0.0024144595954567194
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/target_sys_final2.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (150, 100)
+array_info max is 0.004828919190913439 at index (array(106), array(43))
+array_info min is -0.003924007527530193 at index (array(10), array(12))
+array_info mean is 1.841597963903041e-06
+array_info std is 0.0005430844612419605
+array_info rms is 0.0005430876044556499
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.057220458984375 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044071dd00>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f0414101fa0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/target_sys_final2
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved ./output-nor-False-shot_num-70-random-0/slope_sys_final2
+
+
+
+
+
+ output_name=./output-nor-False-shot_num-70-random-0/slope_sys_final2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 1.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 1.5
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -2.8474696591729298e-05
+
+Key: vmax, Value: 3.564586950233206e-05
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output-nor-False-shot_num-70-random-0/slope_sys_final2.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (150, 100)
+array_info max is 7.129173900466412e-05 at index (array(39), array(48))
+array_info min is -5.6949393183458596e-05 at index (array(36), array(49))
+array_info mean is -8.05049182872608e-09
+array_info std is 5.621681339107454e-06
+array_info rms is 5.621687250823015e-06
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.057220458984375 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f0414056a00>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f0414046460>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{−5}}\\mathdefault{}$')
+
+Key: base_name, Value: ./output-nor-False-shot_num-70-random-0/slope_sys_final2
+
+Key: ext, Value: .png
+
+
+
+
+
+
+

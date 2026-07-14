@@ -1,0 +1,488 @@
+Class name: Wave_Hes_Para
+default para self: self
+
+default para dims: dims: list = [1, 1, 1]
+
+default para dims_interval: dims_interval: list = [1, 1, 1]
+
+default para start_x: start_x: int = 0
+
+default para start_y: start_y: int = 0
+
+default para start_z: start_z: int = 0
+
+default para wx: wx: int = 0
+
+default para wy: wy: int = 1
+
+default para wz: wz: int = 0
+
+default para wangle: wangle: int = 1
+
+default para samplingx: samplingx: int = 0
+
+default para samplingy: samplingy: int = 1
+
+default para samplingz: samplingz: int = 0
+
+default para angle_num: angle_num: int = 0
+
+default para angle_start: angle_start: int = 0
+
+default para angle_interval: angle_interval: int = 0
+
+default para angle_tapering_bool: angle_tapering_bool: int = 1
+
+default para angle_tapering_min_angle: angle_tapering_min_angle: float = 0
+
+default para angle_hes_bool: angle_hes_bool: int = 0
+
+default para hessian_num: hessian_num: int = 4
+
+default para z_dir_speedup_ratio: z_dir_speedup_ratio: int = 1
+
+default para compute_or_inv: compute_or_inv: int = 0
+
+default para hes_illumination_matrix_bool: hes_illumination_matrix_bool: int = 0
+
+default para use_cupy: use_cupy=True
+
+default para log_file: log_file='Wave_Hes_Para_log.txt'
+
+    key:readme
+    des:No description available
+    val:{}
+    dtype:There is no dtype
+
+
+    key:name
+    des:No description available
+    val:Wave_Hes_Para
+    dtype:There is no dtype
+
+
+    key:log_file
+    des:No description available
+    val:Hes_Para_log.txt
+    dtype:There is no dtype
+
+
+    key:use_cupy
+    des:No description available
+    val:True
+    dtype:There is no dtype
+
+
+    key:cpasnumpy_or
+    des:No description available
+    val:function
+    dtype:function
+
+
+    key:dims
+    des:When I will initalized the Class, I can set it as vel.T.shape for simplification
+Note that our array should be [nz, ny, nx]
+but when I will transfer the parameter into a function, I will always use [dx, dy, dz], dims=[nx, ny, nz], [start_x, start_y, start_z], [sx, sy, sz], [gx, gy, gz], [min_x, min_y, min_z], [max_x, max_y, max_z]
+All parameters are set as grid point (dx, dy, dz)
+I can set it as different parameter, when I will implement the image-domain inversion
+    val:[380, 470]
+    dtype:There is no dtype
+
+
+    key:dims_interval
+    des:No description available
+    val:[10.0, 10.0]
+    dtype:There is no dtype
+
+
+    key:nx
+    des:No description available
+    val:380
+    dtype:int32
+
+
+    key:ny
+    des:No description available
+    val:1
+    dtype:int32
+
+
+    key:nz
+    des:No description available
+    val:470
+    dtype:int32
+
+
+    key:dx
+    des:No description available
+    val:10.0
+    dtype:float32
+
+
+    key:dy
+    des:No description available
+    val:1.0
+    dtype:float32
+
+
+    key:dz
+    des:No description available
+    val:10.0
+    dtype:float32
+
+
+    key:start_x
+    des:  start position for computing the Hessian operator in the X direction
+    val:280
+    dtype:int32
+
+
+    key:start_y
+    des:  start position for computing the Hessian operator in the Y direction
+    val:0
+    dtype:int32
+
+
+    key:start_z
+    des:  start position for computing the Hessian operator in the Z direction
+    val:320
+    dtype:int32
+
+
+    key:compute_or_inv
+    des:If compute_or_inv=0, I will use the information to compute number of grid by np.int32(   (self.nx - self.start_x - 1)   //self.samplingx + 1);
+If compute_or_inv=1, I will use the information to compute number of grid by self.numx           = np.int32(   (self.nx - 1)   //self.samplingx + 1);
+    val:0
+    dtype:There is no dtype
+
+
+    key:hes_illumination_matrix_bool
+    des:default 0, it means that we do not need to compute illumination matrix;   if it is not zero,  I will delete the angle marix and save the sum of hessian 
+    val:0
+    dtype:int32
+
+
+    key:wx
+    des:  size of Hessian (6D) or imaging resolution function (3D) in the X direction
+    val:25
+    dtype:int32
+
+
+    key:wy
+    des:  size of Hessian (6D) or imaging resolution function (3D) in the Y direction
+    val:1
+    dtype:int32
+
+
+    key:wz
+    des:  size of Hessian (6D) or imaging resolution function (3D) in the Z direction
+    val:25
+    dtype:int32
+
+
+    key:wangle
+    des:No description available
+    val:1
+    dtype:int32
+
+
+    key:samplingx
+    des:  sampling interval of Hessian (6D) or imaging resolution function (3D) in the X direction
+    val:5
+    dtype:int32
+
+
+    key:samplingy
+    des:  sampling interval of Hessian (6D) or imaging resolution function (3D) in the Y direction
+    val:1
+    dtype:int32
+
+
+    key:samplingz
+    des:  sampling interval of Hessian (6D) or imaging resolution function (3D) in the Z direction
+    val:5
+    dtype:int32
+
+
+    key:numx
+    des:  sampling number of Hessian (6D) or imaging resolution function (3D) in the X direction
+    val:20
+    dtype:int32
+
+
+    key:numy
+    des:  sampling number of Hessian (6D) or imaging resolution function (3D) in the Y direction
+    val:1
+    dtype:int32
+
+
+    key:numz
+    des:  sampling number of Hessian (6D) or imaging resolution function (3D) in the Z direction
+    val:30
+    dtype:int32
+
+
+    key:z_dir_speedup_ratio
+    des:int32
+  there is a loop for z direction, when I want to compute the Hessian matrix.
+  It means that I want to compute [z_dir_speedup_ratio, self.numy, self.numx, self.wz, self.wy, self.wx] for the imaging resolution function (Hessian operator) on device for one depth loop
+    val:30
+    dtype:int32
+
+
+    key:hessian_shape
+    des:No description available
+    val:[30, 1, 20, 25, 1, 25]
+    dtype:There is no dtype
+
+
+    key:angle_hessian_shape
+    des:No description available
+    val:[1, 50, 30, 1, 20, 25, 1, 25]
+    dtype:There is no dtype
+
+
+    key:hessian_mem
+    des:No description available
+    val:1.430511474609375
+    dtype:float64
+
+
+    key:angle_hessian_mem
+    des:No description available
+    val:71.52557373046875
+    dtype:float64
+
+
+    key:hessian_num
+    des:int32
+  if ==4, I will allocate four hessian on numpy/cpu, self.hessian1, self.hessian2, self.hessian3, self.hessian4
+    val:2
+    dtype:There is no dtype
+
+
+    key:hessian1
+    des:  H_KK  the dimension of hessian1 is [numz, numy, numx, wz, wy, wx] on numpy.float32,  scale_k_k     = 1.0f *scale    * 1.0f;   scale_k_rou   = 1.0f *scale    * scale_anlge_y; scale_rou_k   = 1.0f *scale    * scale_anlge_x; scale_rou_rou = 1.0f *scale    * scale_anlge_x * scale_anlge_y;
+    val:
+hessian1 allocate on cupy
+hessian1 shape is (30, 1, 20, 25, 1, 25)
+hessian1 max is 0.0 at index (array(0), array(0), array(0), array(0), array(0), array(0))
+hessian1 min is 0.0 at index (array(0), array(0), array(0), array(0), array(0), array(0))
+hessian1 mean is 0.0
+hessian1 std is 0.0
+hessian1 rms is 0.0
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.430511474609375 MB
+
+    dtype:float32
+
+
+    key:hessian2
+    des:  H_K rou  the dimension of hessian1 is [numz, numy, numx, wz, wy, wx] on numpy.float32,  scale_k_k     = 1.0f *scale    * 1.0f;   scale_k_rou   = 1.0f *scale    * scale_anlge_y; scale_rou_k   = 1.0f *scale    * scale_anlge_x; scale_rou_rou = 1.0f *scale    * scale_anlge_x * scale_anlge_y;
+    val:
+hessian2 allocate on cupy
+hessian2 shape is (30, 1, 20, 25, 1, 25)
+hessian2 max is 0.0 at index (array(0), array(0), array(0), array(0), array(0), array(0))
+hessian2 min is 0.0 at index (array(0), array(0), array(0), array(0), array(0), array(0))
+hessian2 mean is 0.0
+hessian2 std is 0.0
+hessian2 rms is 0.0
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.430511474609375 MB
+
+    dtype:float32
+
+
+    key:angle_start
+    des:float32
+  This parameter is useless, when I will compute the Hessian, since angle_mapping and angle_tapering only depends on the migraion class 
+  Note that this float parameter is used for implementing the image-domain inversion rather than the computation of Hessian matrix.
+  When I will computed the angle-dependent Hessian, it is set as the same parameter of migration class
+  This is a angle_start parameter angle-dependent image-domain inversion,  when the Hessian matrix has been computed
+  We need to compute the start id number through (Hessian.start-migration.start) / angle_interval, the angle_num number is  angle_num
+    val:0.0
+    dtype:float32
+
+
+    key:angle_interval
+    des:float32
+  This parameter is useless, when I will compute the Hessian, since angle_mapping and angle_tapering only depends on the migraion class 
+  Note that this float parameter is used for implementing the image-domain inversion rather than the computation of Hessian matrix.
+  When I will computed the angle-dependent Hessian, it is set as the same parameter of migration class
+  This parameter is useless, when I will compute the Hessian, since it only depends on the migraion class
+    val:1.0
+    dtype:float32
+
+
+    key:angle_num
+    des:int32
+  It should be set as the same number of angle_num of migrated image, when I will compute the Hessian matrix
+  However, when I will implement the image-domain inversion, I can set it as another value, but it is smaller than the angle_num of computed Hessian matrix
+    val:50
+    dtype:int32
+
+
+    key:angle_end
+    des:No description available
+    val:50.0
+    dtype:float32
+
+
+    key:angle_tapering_bool
+    des:int32
+  This parameter is useless, when I will compute the Hessian, since angle_mapping and angle_tapering only depends on the migraion class
+    val:1
+    dtype:int32
+
+
+    key:angle_tapering_min_angle
+    des:No description available
+    val:0.0
+    dtype:float32
+
+
+    key:angle_hes_bool
+    des:int32
+  If it is non-zero, we will compute the angle-dependent Hessian, 
+  if == 1, allocate angle_hessian1 
+  if == 2 angle_hessian1 and angle_hessian2,  default allocate on numpy/cpu, self.angle_hessian1, self.angle_hessian2
+    val:0
+    dtype:int32
+
+
+    key:gridx
+    des:  int32 array of sampling position for X direction
+    val:
+gridx allocate on numpy
+gridx shape is (20,)
+gridx max is 375 at index (19,)
+gridx min is 280 at index (0,)
+gridx mean is 327.5
+gridx std is 28.83140648667699
+gridx rms is 328.76663456013904
+there is no device
+dtype is int32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 7.62939453125e-05 MB
+
+    dtype:int32
+
+
+    key:gridy
+    des:  int32 array of sampling position for Y direction
+    val:
+gridy allocate on numpy
+gridy shape is (1,)
+gridy max is 0 at index (0,)
+gridy min is 0 at index (0,)
+gridy mean is 0.0
+gridy std is 0.0
+gridy rms is 0.0
+there is no device
+dtype is int32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 3.814697265625e-06 MB
+
+    dtype:int32
+
+
+    key:gridz
+    des:  int32 array of sampling position for Z direction
+    val:
+gridz allocate on numpy
+gridz shape is (30,)
+gridz max is 465 at index (29,)
+gridz min is 320 at index (0,)
+gridz mean is 392.5
+gridz std is 43.27720724199595
+gridz rms is 394.8786733500135
+there is no device
+dtype is int32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.00011444091796875 MB
+
+    dtype:int32
+
+
+    key:grid_angle
+    des:No description available
+    val:
+grid_angle allocate on numpy
+grid_angle shape is (50,)
+grid_angle max is 49.0 at index (49,)
+grid_angle min is 0.0 at index (0,)
+grid_angle mean is 24.5
+grid_angle std is 14.430870056152344
+grid_angle rms is 28.434133529663086
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.00019073486328125 MB
+
+    dtype:float32
+
+
+    key:plot_x_beg
+    des:No description available
+    val:2800.0
+    dtype:float64
+
+
+    key:plot_x_end
+    des:No description available
+    val:6600.0
+    dtype:float64
+
+
+    key:plot_y_beg
+    des:No description available
+    val:0.0
+    dtype:float64
+
+
+    key:plot_y_end
+    des:No description available
+    val:1.0
+    dtype:float64
+
+
+    key:plot_z_beg
+    des:No description available
+    val:3200.0
+    dtype:float64
+
+
+    key:plot_z_end
+    des:No description available
+    val:7900.0
+    dtype:float64
+
+
+    key:plot_a_beg
+    des:No description available
+    val:0.0
+    dtype:float32
+
+
+    key:plot_a_end
+    des:No description available
+    val:50.0
+    dtype:float64
+
+
+    key:slice_2D
+    des:No description available
+    val:(slice(320, 470, None), slice(280, 380, None))
+    dtype:There is no dtype
+
+
+    key:slice_3D
+    des:No description available
+    val:(slice(320, 470, None), slice(0, 1, None), slice(280, 380, None))
+    dtype:There is no dtype
+
+

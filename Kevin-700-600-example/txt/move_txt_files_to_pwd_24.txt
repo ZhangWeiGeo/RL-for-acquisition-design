@@ -1,0 +1,25 @@
+File 'Hes_Para_log.txt' already exists, renaming to 'Hes_Para_log_1.txt'
+Moved 'Hes_Para_log.txt' to 'txt' folder.
+File 'ray_kernel3d_dict_log.txt' already exists, renaming to 'ray_kernel3d_dict_log_1.txt'
+Moved 'ray_kernel3d_dict_log.txt' to 'txt' folder.
+File 'Mig_Para_log.txt' already exists, renaming to 'Mig_Para_log_1.txt'
+Moved 'Mig_Para_log.txt' to 'txt' folder.
+File 'cupy_kernels.txt' already exists, renaming to 'cupy_kernels_1.txt'
+Moved 'cupy_kernels.txt' to 'txt' folder.
+File 'wave_kernel_dict_log.txt' already exists, renaming to 'wave_kernel_dict_log_1.txt'
+Moved 'wave_kernel_dict_log.txt' to 'txt' folder.
+File 'move_txt_files_to_pwd.txt' already exists, renaming to 'move_txt_files_to_pwd_24.txt'
+Moved 'move_txt_files_to_pwd.txt' to 'txt' folder.
+File 'imshow.txt' already exists, renaming to 'imshow_2.txt'
+Moved 'imshow.txt' to 'txt' folder.
+File 'FD2d_dict_log.txt' already exists, renaming to 'FD2d_dict_log_1.txt'
+Moved 'FD2d_dict_log.txt' to 'txt' folder.
+File 'ray_kernel2d_dict_log.txt' already exists, renaming to 'ray_kernel2d_dict_log_1.txt'
+Moved 'ray_kernel2d_dict_log.txt' to 'txt' folder.
+File 'kernel_list.txt' already exists, renaming to 'kernel_list_1.txt'
+Moved 'kernel_list.txt' to 'txt' folder.
+File 'FD_operator_class_info.txt' already exists, renaming to 'FD_operator_class_info_1.txt'
+Moved 'FD_operator_class_info.txt' to 'txt' folder.
+File 'FD3d_dict_log.txt' already exists, renaming to 'FD3d_dict_log_1.txt'
+Moved 'FD3d_dict_log.txt' to 'txt' folder.
+All .txt files have been moved to the 'txt' folder.

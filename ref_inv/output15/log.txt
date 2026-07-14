@@ -1,0 +1,193 @@
+
+Episode         = 1
+inner_loop      = 999
+env.snr2        = -1.000
+episode_reward  = -1.719
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0154],
+        [-0.0122]])
+Episode         = 5
+inner_loop      = 999
+env.snr2        = 4.029
+episode_reward  = -1.580
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[ 0.0181],
+        [-0.0005]])
+Episode         = 9
+inner_loop      = 999
+env.snr2        = -6.960
+episode_reward  = -0.837
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0169],
+        [ 0.0343]])
+Episode         = 13
+inner_loop      = 999
+env.snr2        = -5.239
+episode_reward  = -1.254
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[0.0030],
+        [0.0353]])
+Episode         = 17
+inner_loop      = 999
+env.snr2        = -3.801
+episode_reward  = 1.648
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0085],
+        [ 0.0147]])
+Episode         = 21
+inner_loop      = 999
+env.snr2        = 0.155
+episode_reward  = 0.551
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[0.0091],
+        [0.0073]])
+Episode         = 25
+inner_loop      = 999
+env.snr2        = 5.218
+episode_reward  = 1.858
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[ 0.0174],
+        [-0.0044]])
+Episode         = 29
+inner_loop      = 999
+env.snr2        = -0.325
+episode_reward  = 1.813
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[0.0066],
+        [0.0075]])
+Episode         = 33
+inner_loop      = 999
+env.snr2        = -2.501
+episode_reward  = 1.564
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0047],
+        [ 0.0094]])
+Episode         = 37
+inner_loop      = 999
+env.snr2        = 5.788
+episode_reward  = 0.655
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[ 0.0318],
+        [-0.0013]])
+Episode         = 41
+inner_loop      = 999
+env.snr2        = -3.446
+episode_reward  = 1.147
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0097],
+        [ 0.0110]])
+Episode         = 45
+inner_loop      = 999
+env.snr2        = 4.567
+episode_reward  = 2.062
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[ 0.0142],
+        [-0.0048]])
+Episode         = 49
+inner_loop      = 999
+env.snr2        = 2.415
+episode_reward  = 1.353
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[ 0.0086],
+        [-0.0023]])
+Episode         = 53
+inner_loop      = 999
+env.snr2        = 2.862
+episode_reward  = -1.479
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[ 0.0489],
+        [-0.0010]])
+Episode         = 57
+inner_loop      = 999
+env.snr2        = 4.550
+episode_reward  = 0.657
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0038],
+        [-0.0373]])
+Episode         = 61
+inner_loop      = 999
+env.snr2        = 3.764
+episode_reward  = 1.635
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[0.0372],
+        [0.0060]])
+Episode         = 65
+inner_loop      = 999
+env.snr2        = 4.703
+episode_reward  = 1.674
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0032],
+        [-0.0369]])
+Episode         = 69
+inner_loop      = 999
+env.snr2        = 4.733
+episode_reward  = 2.556
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0034],
+        [-0.0315]])
+Episode         = 73
+inner_loop      = 999
+env.snr2        = 0.900
+episode_reward  = 2.044
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0055],
+        [-0.0106]])
+Episode         = 77
+inner_loop      = 999
+env.snr2        = 5.349
+episode_reward  = 0.906
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0013],
+        [-0.0325]])
+Episode         = 81
+inner_loop      = 999
+env.snr2        = -0.369
+episode_reward  = 1.461
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0011],
+        [ 0.0007]])
+Episode         = 85
+inner_loop      = 999
+env.snr2        = -1.000
+episode_reward  = 3.575
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0006],
+        [ 0.0046]])
+Episode         = 89
+inner_loop      = 999
+env.snr2        = -0.760
+episode_reward  = 3.901
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0018],
+        [ 0.0022]])
+Episode         = 93
+inner_loop      = 999
+env.snr2        = -1.464
+episode_reward  = 1.470
+nonzero_indices = tensor([[100],
+        [110]])
+nonzero_values  = tensor([[-0.0038],
+        [ 0.0041]])

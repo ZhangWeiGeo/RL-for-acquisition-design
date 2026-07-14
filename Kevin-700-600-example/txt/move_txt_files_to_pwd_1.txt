@@ -1,0 +1,5 @@
+File 'move_txt_files_to_pwd.txt' already exists, renaming to 'move_txt_files_to_pwd_1.txt'
+Moved 'move_txt_files_to_pwd.txt' to 'txt' folder.
+File 'imshow.txt' already exists, renaming to 'imshow_1.txt'
+Moved 'imshow.txt' to 'txt' folder.
+All .txt files have been moved to the 'txt' folder.

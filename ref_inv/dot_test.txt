@@ -1,0 +1,697 @@
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 66.308678
+ y1y2_sum: 66.308678
+ x1x2_value: 66.30867767333984
+ y1y2_value: 66.30867767333984
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -17.883335
+ y1y2_sum: -17.883347
+ x1x2_value: -17.88333511352539
+ y1y2_value: -17.883346557617188
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -58.308861
+ y1y2_sum: -58.308857
+ x1x2_value: -58.308860778808594
+ y1y2_value: -58.30885696411133
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -31.808376
+ y1y2_sum: -31.808380
+ x1x2_value: -31.80837631225586
+ y1y2_value: -31.808380126953125
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -56.112961
+ y1y2_sum: -56.112961
+ x1x2_value: -56.11296081542969
+ y1y2_value: -56.11296081542969
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -60.790714
+ y1y2_sum: -60.790714
+ x1x2_value: -60.790714263916016
+ y1y2_value: -60.790714263916016
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 51.548836
+ y1y2_sum: 51.548798
+ x1x2_value: 51.54883575439453
+ y1y2_value: 51.548797607421875
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -74.310699
+ y1y2_sum: -74.310715
+ x1x2_value: -74.31069946289062
+ y1y2_value: -74.31071472167969
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -79.649643
+ y1y2_sum: -79.649651
+ x1x2_value: -79.64964294433594
+ y1y2_value: -79.64965057373047
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 17.217216
+ y1y2_sum: 17.217237
+ x1x2_value: 17.21721649169922
+ y1y2_value: 17.21723747253418
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -37.118328
+ y1y2_sum: -37.118324
+ x1x2_value: -37.11832809448242
+ y1y2_value: -37.118324279785156
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 cupy
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 77.238716
+ y1y2_sum: 77.238708
+ x1x2_value: 77.23871612548828
+ y1y2_value: 77.23870849609375
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -114.677963
+ y1y2_sum: -114.678001
+ x1x2_value: -114.67796325683594
+ y1y2_value: -114.6780014038086
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -78.752472
+ y1y2_sum: -78.752472
+ x1x2_value: -78.75247192382812
+ y1y2_value: -78.75247192382812
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 26.135853
+ y1y2_sum: 26.135862
+ x1x2_value: 26.135852813720703
+ y1y2_value: 26.135862350463867
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 57.392544
+ y1y2_sum: 57.392548
+ x1x2_value: 57.39254379272461
+ y1y2_value: 57.392547607421875
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 14.058050
+ y1y2_sum: 14.058054
+ x1x2_value: 14.058050155639648
+ y1y2_value: 14.058053970336914
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 7.286787
+ y1y2_sum: 7.286740
+ x1x2_value: 7.286787033081055
+ y1y2_value: 7.286740303039551
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 36.829109
+ y1y2_sum: 36.829117
+ x1x2_value: 36.82910919189453
+ y1y2_value: 36.82911682128906
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 158.000977
+ y1y2_sum: 158.000977
+ x1x2_value: 158.0009765625
+ y1y2_value: 158.0009765625
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -11.008394
+ y1y2_sum: -11.008405
+ x1x2_value: -11.008394241333008
+ y1y2_value: -11.008404731750488
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[500, 1], y1_shape=[500, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 16.727955
+ y1y2_sum: 16.727970
+ x1x2_value: 16.727954864501953
+ y1y2_value: 16.727970123291016
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 17.890846
+ y1y2_sum: 17.890862
+ x1x2_value: 17.890846252441406
+ y1y2_value: 17.89086151123047
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -8.437871
+ y1y2_sum: -8.437881
+ x1x2_value: -8.437870979309082
+ y1y2_value: -8.437881469726562
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 45.533325
+ y1y2_sum: 45.533318
+ x1x2_value: 45.5333251953125
+ y1y2_value: 45.53331756591797
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 7.713825
+ y1y2_sum: 7.713814
+ x1x2_value: 7.713825225830078
+ y1y2_value: 7.713813781738281
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -27.462631
+ y1y2_sum: -27.462603
+ x1x2_value: -27.462631225585938
+ y1y2_value: -27.462602615356445
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 2.397446
+ y1y2_sum: 2.397447
+ x1x2_value: 2.3974456787109375
+ y1y2_value: 2.397447347640991
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 77.437576
+ y1y2_sum: 77.437576
+ x1x2_value: 77.43757629394531
+ y1y2_value: 77.43757629394531
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 41.356705
+ y1y2_sum: 41.356712
+ x1x2_value: 41.35670471191406
+ y1y2_value: 41.356712341308594
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -60.984169
+ y1y2_sum: -60.984177
+ x1x2_value: -60.984169006347656
+ y1y2_value: -60.98417663574219
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -22.133301
+ y1y2_sum: -22.133305
+ x1x2_value: -22.13330078125
+ y1y2_value: -22.133304595947266
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -10.426838
+ y1y2_sum: -10.426831
+ x1x2_value: -10.426837921142578
+ y1y2_value: -10.426831245422363
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -2.857313
+ y1y2_sum: -2.857310
+ x1x2_value: -2.857313394546509
+ y1y2_value: -2.8573102951049805
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -1.608435
+ y1y2_sum: -1.608439
+ x1x2_value: -1.6084346771240234
+ y1y2_value: -1.6084389686584473
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 10.958916
+ y1y2_sum: 10.958920
+ x1x2_value: 10.958915710449219
+ y1y2_value: 10.958919525146484
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -64.107140
+ y1y2_sum: -64.107162
+ x1x2_value: -64.10713958740234
+ y1y2_value: -64.10716247558594
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -28.620539
+ y1y2_sum: -28.620543
+ x1x2_value: -28.62053871154785
+ y1y2_value: -28.620542526245117
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -59.267067
+ y1y2_sum: -59.267075
+ x1x2_value: -59.267066955566406
+ y1y2_value: -59.26707458496094
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: -29.993876
+ y1y2_sum: -29.993876
+ x1x2_value: -29.99387550354004
+ y1y2_value: -29.99387550354004
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+
+   description=
+   forward: data_term_forward = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2,   x)
+   adjoint: data_term_adjoint = lambda x: Post.apply_matrix_mul_last_and_first(conv_matrix2.T, x)
+   module::                 torch
+
+ x2_shape=[200, 1], y1_shape=[200, 1],
+ x2_continuous:True (all)
+ y1_continuous:True (all)
+ x2_dtype32_bool:True (all)
+ y1_dtype32_bool:True (all)
+ x1x2_sum: 9.290488
+ y1y2_sum: 9.290491
+ x1x2_value: 9.290488243103027
+ y1y2_value: 9.290491104125977
+ Dot product test passed, CPU times:0.000, GPU times:0.000
+
+

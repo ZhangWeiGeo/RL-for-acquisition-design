@@ -1,0 +1,10250 @@
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60ff7e82b0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f60ff6c64c0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60ff655cd0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f60ff839070>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60ff7fc4f0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f612008c220>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60fff99160>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f612008cb50>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60fffaa9d0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f6120136d60>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60fff88c70>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f60ff655c40>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60ff7f8a60>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f60fff8ab20>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60ff52b040>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f60fff9c970>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f6120072cd0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f60ff6a2700>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60fffce160>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f60ff5f7190>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60ff52bc40>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f60ff606310>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f60ff622ee0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f60ff81fbb0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f0f546ff040>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f0f55947e80>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f0f55929c10>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f0f5465ae50>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f1e58698760>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f1e585f9580>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f1e58767910>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f1e5885bcd0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7efebc18a1f0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7efeb5889400>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7efebc15d580>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7efebc09ac40>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7efeb56b1a60>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7efeb56d1910>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7efeb56a23d0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7efeb56e8190>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f6c1c5667c0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f6c1d7a9880>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f6c1c4de0a0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f6c1c4e5e50>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 1.0 at index (array(0), array(1))
+array_info min is -0.44493451714515686 at index (array(0), array(11))
+array_info mean is 0.00024997233413159847
+array_info std is 0.12177956104278564
+array_info rms is 0.12177994847297668
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fa0a65af940>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fa0a6361f70>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on cupy
+array_info shape is (500, 500)
+array_info max is 0.948496401309967 at index (array(0), array(3))
+array_info min is -0.6445612907409668 at index (array(6), array(0))
+array_info mean is 0.0001513604074716568
+array_info std is 0.12168427556753159
+array_info rms is 0.12168443202972412
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fa0a6554f10>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fa0a6485f70>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917cbbd7f0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f92d7267a00>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917cb87a30>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917c2dc3a0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917cbbdca0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917c09b370>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917c09bd90>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917c118a60>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917c3286a0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917e71f700>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917d43a5e0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917d37a040>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f92fda89430>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917cb9f3a0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917c1942e0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f9169f52820>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917c112700>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917c119190>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917cb8ee50>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917c111bb0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917c297040>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917c18efd0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917c298310>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917c0705e0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f9169f60040>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f917d470d60>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f917c0841f0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f9169f727c0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f47917c0a30>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f4791640370>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f47917334f0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f47916403d0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f81c8477820>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f81c83f1190>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f81c83e0fa0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f81c86f4250>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.00024997268337756395
+array_info std is 0.12177994102239609
+array_info rms is 0.12177994847297668
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f81c80caa90>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f81c8077bb0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 5.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 5.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([500, 500])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.00015135976718738675
+array_info std is 0.12168458104133606
+array_info rms is 0.12168443948030472
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.95367431640625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f81c8058250>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f81c209d9d0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f37b0e12250>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f37b0584340>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f37b058e0a0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f37b0497760>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f1df4b891f0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f1df42f68b0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f1df4306220>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f1df6524fa0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f91840b4310>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f91817792b0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f918409ac70>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f918408ba90>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f3378113070>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f33780869d0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f337893cac0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f3378028490>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f3370412a90>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f33703c5250>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f3370533850>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f33703b0f70>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f337052dd90>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f3370138820>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f3370518cd0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f337016f250>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fa73444c430>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fa73420e160>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fa734406880>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fa73420eaf0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f11f3fa4e80>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f11f2426ac0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f11f24913d0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f11f25aaeb0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f26820b5af0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f2683a360a0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f2681f2d760>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f2681f745e0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7feaa03e4130>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7feaa14105e0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7feaa0382b20>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7feaa14106d0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fd6fc2d21c0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fd87d070910>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fd6fc117fa0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fd6fc318070>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fd44e820400>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fd44e75e430>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fd44e8160a0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fd4686839a0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fd44e640a30>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fd44e8c6880>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7fd44e5b5c40>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7fd44e49f3a0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f6bf88ab820>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f6bf88971c0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f6bf883b1f0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f6bf8897ee0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f6dc6022520>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f6dc68ebb50>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f6dc6030bb0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f6dc6933730>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f29f9597880>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f29f952c310>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f29f9544df0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f29f93612b0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f73aa05bd60>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f73aa0211f0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f73a85ff4c0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f73a848d4f0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f43d23d6d60>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f43d01030d0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f45470f3820>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f43d01920a0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix1.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix1.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.44493451714515686
+
+Key: vmax, Value: 1.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix1.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 1.0 at index (tensor(0), tensor(1))
+array_info min is -0.44493451714515686 at index (tensor(0), tensor(11))
+array_info mean is 0.0015623301733285189
+array_info std is 0.1912771463394165
+array_info rms is 0.19128113985061646
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f572ca67760>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f5707ec9790>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+
+Saved as './output15/conv_matrix2.png'
+
+
+
+
+
+ output_name=./output15/conv_matrix2.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 2.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 2.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.6445612907409668
+
+Key: vmax, Value: 0.948496401309967
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: ./output15/conv_matrix2.png
+
+Key: eps_dpi, Value: 200
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative amplitude
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on torch
+array_info shape is torch.Size([200, 200])
+array_info max is 0.948496401309967 at index (tensor(0), tensor(3))
+array_info min is -0.6445612907409668 at index (tensor(6), tensor(0))
+array_info mean is 0.0009459996945224702
+array_info std is 0.19090089201927185
+array_info rms is 0.19090084731578827
+device is cpu
+dtype is torch.float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 0.152587890625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f57250b7700>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f5707ec98e0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.17000000000000004, x1=0.8388, y1=0.73)
+
+Key: offset_text, Value: Text(1, 129.144, '')
+
+
+
+
+
+
+

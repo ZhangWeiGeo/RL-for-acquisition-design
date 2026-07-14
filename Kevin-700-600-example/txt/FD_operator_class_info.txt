@@ -1,0 +1,327 @@
+Class name: Solver_FD_Operator_Class
+default para self: self
+
+default para dims: dims: list = [1, 1, 1]
+
+default para dims_interval: dims_interval: list = [1, 1, 1]
+
+default para module: module=<module 'cupy' from '/home/zhangjiwei/anaconda3/envs/py/lib/python3.9/site-packages/cupy/__init__.py'>
+
+default para FD_order: FD_order=2
+
+default para block_tuple: block_tuple=(32, 16, 1)
+
+default para log_file: log_file: str = 'FD_operator_class_info.txt'
+
+    key:readme
+    des:No description available
+    val:{}
+    dtype:There is no dtype
+
+
+    key:name
+    des:No description available
+    val:Solver_FD_Operator_Class
+    dtype:There is no dtype
+
+
+    key:log_file
+    des:No description available
+    val:FD_operator_class_info.txt
+    dtype:There is no dtype
+
+
+    key:TIME_order
+    des:No description available
+    val:1
+    dtype:int32
+
+
+    key:FD_order
+    des:No description available
+    val:2
+    dtype:int32
+
+
+    key:FD_coemethod
+    des:No description available
+    val:0
+    dtype:int32
+
+
+    key:SP_bool
+    des:No description available
+    val:1
+    dtype:int32
+
+
+    key:TIME_M
+    des:No description available
+    val:2
+    dtype:int32
+
+
+    key:TIME_N
+    des:No description available
+    val:1
+    dtype:int32
+
+
+    key:TIME_MN
+    des:No description available
+    val:2
+    dtype:int32
+
+
+    key:TIME_MN_half
+    des:No description available
+    val:1
+    dtype:int32
+
+
+    key:radius
+    des:No description available
+    val:1
+    dtype:int32
+
+
+    key:coe_1_standad_d
+    des:No description available
+    val:
+coe_1_standad_d allocate on cupy
+coe_1_standad_d shape is (2,)
+coe_1_standad_d max is 0.5 at index (array(1),)
+coe_1_standad_d min is 0.0 at index (array(0),)
+coe_1_standad_d mean is 0.25
+coe_1_standad_d std is 0.25
+coe_1_standad_d rms is 0.3535533845424652
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 7.62939453125e-06 MB
+
+    dtype:float32
+
+
+    key:coe_1_d
+    des:No description available
+    val:
+coe_1_d allocate on cupy
+coe_1_d shape is (2,)
+coe_1_d max is 1.0 at index (array(1),)
+coe_1_d min is 0.0 at index (array(0),)
+coe_1_d mean is 0.5
+coe_1_d std is 0.5
+coe_1_d rms is 0.7071067690849304
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 7.62939453125e-06 MB
+
+    dtype:float32
+
+
+    key:coe_2_d
+    des:No description available
+    val:
+coe_2_d allocate on cupy
+coe_2_d shape is (2,)
+coe_2_d max is 1.0 at index (array(1),)
+coe_2_d min is -2.0 at index (array(0),)
+coe_2_d mean is -0.5
+coe_2_d std is 1.5
+coe_2_d rms is 1.5811388492584229
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 7.62939453125e-06 MB
+
+    dtype:float32
+
+
+    key:coe_time_2_d
+    des:No description available
+    val:
+coe_time_2_d allocate on cupy
+coe_time_2_d shape is (2,)
+coe_time_2_d max is 1.0 at index (array(1),)
+coe_time_2_d min is 0.0 at index (array(0),)
+coe_time_2_d mean is 0.5
+coe_time_2_d std is 0.5
+coe_time_2_d rms is 0.7071067690849304
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 7.62939453125e-06 MB
+
+    dtype:float32
+
+
+    key:coe_time_1_d
+    des:No description available
+    val:
+coe_time_1_d allocate on cupy
+coe_time_1_d shape is (2,)
+coe_time_1_d max is 1.0 at index (array(0),)
+coe_time_1_d min is 1.0 at index (array(0),)
+coe_time_1_d mean is 1.0
+coe_time_1_d std is 0.0
+coe_time_1_d rms is 1.0
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 7.62939453125e-06 MB
+
+    dtype:float32
+
+
+    key:coe_mn_d
+    des:No description available
+    val:
+coe_mn_d allocate on cupy
+coe_mn_d shape is (2,)
+coe_mn_d max is 2.0 at index (array(0),)
+coe_mn_d min is 1.0 at index (array(1),)
+coe_mn_d mean is 1.5
+coe_mn_d std is 0.5
+coe_mn_d rms is 1.5811388492584229
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 7.62939453125e-06 MB
+
+    dtype:float32
+
+
+    key:FD2d_dict
+    des:No description available
+    val:{'dx_1D_forw': <cupy._core.raw.RawKernel object at 0x7f044085b640>, 'dx_1D_back': <cupy._core.raw.RawKernel object at 0x7f04408155c0>, 'dxx_1D': <cupy._core.raw.RawKernel object at 0x7f04408154c0>, 'grad_2D_forw': <cupy._core.raw.RawKernel object at 0x7f0440815b40>, 'div_2D_forw': <cupy._core.raw.RawKernel object at 0x7f0440689f40>, 'dx_2D_forw': <cupy._core.raw.RawKernel object at 0x7f0440689e40>, 'dz_2D_forw': <cupy._core.raw.RawKernel object at 0x7f0440689c40>, 'grad_2D_back': <cupy._core.raw.RawKernel object at 0x7f0440689ac0>, 'div_2D_back': <cupy._core.raw.RawKernel object at 0x7f04406499c0>, 'dx_2D_back': <cupy._core.raw.RawKernel object at 0x7f0440649240>, 'dz_2D_back': <cupy._core.raw.RawKernel object at 0x7f04406498c0>, 'dxx_2D': <cupy._core.raw.RawKernel object at 0x7f0440649940>, 'dzz_2D': <cupy._core.raw.RawKernel object at 0x7f0440649dc0>, 'lap_2D': <cupy._core.raw.RawKernel object at 0x7f0440649740>, 'lap_2D_double': <cupy._core.raw.RawKernel object at 0x7f0440649b40>, 'grad_2D': <cupy._core.raw.RawKernel object at 0x7f0440649cc0>, 'div_2D': <cupy._core.raw.RawKernel object at 0x7f0440649e40>, 'dx_2D': <cupy._core.raw.RawKernel object at 0x7f0440649bc0>, 'dz_2D': <cupy._core.raw.RawKernel object at 0x7f0440649ec0>}
+    dtype:There is no dtype
+
+
+    key:FD3d_dict
+    des:No description available
+    val:{'grad_3D_forw': <cupy._core.raw.RawKernel object at 0x7f04406496c0>, 'div_3D_forw': <cupy._core.raw.RawKernel object at 0x7f0440649c40>, 'dx_3D_forw': <cupy._core.raw.RawKernel object at 0x7f04406490c0>, 'dy_3D_forw': <cupy._core.raw.RawKernel object at 0x7f0440649640>, 'dz_3D_forw': <cupy._core.raw.RawKernel object at 0x7f0440649a40>, 'grad_3D_back': <cupy._core.raw.RawKernel object at 0x7f04406494c0>, 'div_3D_back': <cupy._core.raw.RawKernel object at 0x7f0440630bc0>, 'dx_3D_back': <cupy._core.raw.RawKernel object at 0x7f0440630340>, 'dy_3D_back': <cupy._core.raw.RawKernel object at 0x7f04406305c0>, 'dz_3D_back': <cupy._core.raw.RawKernel object at 0x7f04406304c0>, 'dxx_3D': <cupy._core.raw.RawKernel object at 0x7f0440630740>, 'dyy_3D': <cupy._core.raw.RawKernel object at 0x7f0440630840>, 'dzz_3D': <cupy._core.raw.RawKernel object at 0x7f04406306c0>, 'lap_3D': <cupy._core.raw.RawKernel object at 0x7f0440630dc0>, 'grad_3D': <cupy._core.raw.RawKernel object at 0x7f0440630ac0>, 'div_3D': <cupy._core.raw.RawKernel object at 0x7f0440630f40>, 'dx_3D': <cupy._core.raw.RawKernel object at 0x7f0440630240>, 'dy_3D': <cupy._core.raw.RawKernel object at 0x7f0440630540>, 'dz_3D': <cupy._core.raw.RawKernel object at 0x7f04406301c0>}
+    dtype:There is no dtype
+
+
+    key:wave_kernel_dict
+    des:No description available
+    val:{'add_source_signal_kernel_2D': <cupy._core.raw.RawKernel object at 0x7f04406309c0>, 'add_source_signal_kernel_3D': <cupy._core.raw.RawKernel object at 0x7f04406302c0>, 'cuda_mul_a_b_to_c_1D': <cupy._core.raw.RawKernel object at 0x7f04406303c0>, 'cuda_add_a_b_to_c_1D': <cupy._core.raw.RawKernel object at 0x7f0440630b40>, 'cuda_sub_a_b_to_c_1D': <cupy._core.raw.RawKernel object at 0x7f0440630c40>, 'cuda_div_a_b_to_c_1D': <cupy._core.raw.RawKernel object at 0x7f0440630ec0>, 'cuda_mul_a_b_to_c_1D_add': <cupy._core.raw.RawKernel object at 0x7f0440630d40>, 'cuda_add_a_b_to_c_1D_add': <cupy._core.raw.RawKernel object at 0x7f04406308c0>, 'cuda_sub_a_b_to_c_1D_add': <cupy._core.raw.RawKernel object at 0x7f04406ac6c0>, 'cuda_div_a_b_to_c_1D_add': <cupy._core.raw.RawKernel object at 0x7f04406ac940>, 'acoustic_poynting_shared_3D': <cupy._core.raw.RawKernel object at 0x7f04406acdc0>, 'acoustic_poynting_global_3D': <cupy._core.raw.RawKernel object at 0x7f04406ac9c0>, 'acoustic_poynting_global_2D': <cupy._core.raw.RawKernel object at 0x7f04406acf40>, 'cuda_cal_amp_time_abs_3D': <cupy._core.raw.RawKernel object at 0x7f04406acec0>, 'cuda_cal_amp_time_abs_2D': <cupy._core.raw.RawKernel object at 0x7f04406ac040>, 'cuda_cal_amp_time_3D': <cupy._core.raw.RawKernel object at 0x7f04406ac840>, 'cuda_cal_amp_time_2D': <cupy._core.raw.RawKernel object at 0x7f04406acac0>, 'cuda_get_array_at_time_3D': <cupy._core.raw.RawKernel object at 0x7f04406ac640>, 'cuda_get_array_at_time_2D': <cupy._core.raw.RawKernel object at 0x7f04406ac2c0>, 'cuda_cal_amp_time_abs_1D': <cupy._core.raw.RawKernel object at 0x7f04406ac1c0>, 'cuda_cal_amp_time_1D': <cupy._core.raw.RawKernel object at 0x7f04406ac540>, 'cuda_get_array_at_time_1D': <cupy._core.raw.RawKernel object at 0x7f04406ac4c0>, 'dt_3D': <cupy._core.raw.RawKernel object at 0x7f04406ac140>, 'dt_2D': <cupy._core.raw.RawKernel object at 0x7f04406ac3c0>, 'dt_1D': <cupy._core.raw.RawKernel object at 0x7f04406ac0c0>, 'cross_correlation_IC_2D_part': <cupy._core.raw.RawKernel object at 0x7f04406ac340>, 'cross_correlation_IC_1D': <cupy._core.raw.RawKernel object at 0x7f04406ac8c0>, 'cross_correlation_IC_2D': <cupy._core.raw.RawKernel object at 0x7f04406ace40>, 'cross_correlation_IC_3D': <cupy._core.raw.RawKernel object at 0x7f04406acd40>, 'cross_correlation_IC_3D_part': <cupy._core.raw.RawKernel object at 0x7f04406aca40>, 'dtdt_3D': <cupy._core.raw.RawKernel object at 0x7f0440625340>, 'dtdt_2D': <cupy._core.raw.RawKernel object at 0x7f0440625d40>, 'dtdt_1D': <cupy._core.raw.RawKernel object at 0x7f04406255c0>, 'cuda_form_Toeplitz_matrix_2D': <cupy._core.raw.RawKernel object at 0x7f0440625840>, 'acoustic_kichhoff_modeling_adjoint_source_ND': <cupy._core.raw.RawKernel object at 0x7f04406253c0>, 'acoustic_relative_vp_from_band_limited_angle_dependent_reflectivity_ND': <cupy._core.raw.RawKernel object at 0x7f04406259c0>, 'vector_normalized_2D': <cupy._core.raw.RawKernel object at 0x7f04406250c0>, 'vector_to_angle_z_sin_2D': <cupy._core.raw.RawKernel object at 0x7f0440625e40>, 'vector_to_angle_z_cos_2D': <cupy._core.raw.RawKernel object at 0x7f04406256c0>, 'vector_to_angle_z_tan_2D': <cupy._core.raw.RawKernel object at 0x7f04406257c0>, 'cuda_nan_inf_to_zero': <cupy._core.raw.RawKernel object at 0x7f0440625940>, 'cuda_kernel_clip_and_nan_inf': <cupy._core.raw.RawKernel object at 0x7f0440625b40>, 'cuda_kernel_clip': <cupy._core.raw.RawKernel object at 0x7f0440625ac0>}
+    dtype:There is no dtype
+
+
+    key:ray_kernel2d_dict
+    des:No description available
+    val:{'cuda_modeling_multi_parameter_2D': <cupy._core.raw.RawKernel object at 0x7f04406254c0>, 'cuda_angle_kirchhoff_modeling_2D': <cupy._core.raw.RawKernel object at 0x7f0440625440>, 'cuda_mig_Fresnel_zone': <cupy._core.raw.RawKernel object at 0x7f0440625140>, 'cuda_mig_multi_parameter_1D_cc': <cupy._core.raw.RawKernel object at 0x7f0440625740>, 'cuda_mig_multi_parameter_1D_de': <cupy._core.raw.RawKernel object at 0x7f0440625bc0>, 'cuda_mig_kirchhoff_1D_cc': <cupy._core.raw.RawKernel object at 0x7f0440625640>, 'cuda_mig_kirchhoff_1D_de': <cupy._core.raw.RawKernel object at 0x7f0440625040>, 'cuda_multi_parameter_hessian_ND': <cupy._core.raw.RawKernel object at 0x7f04406251c0>, 'cuda_kirchhoff_hessian_ND': <cupy._core.raw.RawKernel object at 0x7f0440625540>, 'cuda_hessian_tapering_ND': <cupy._core.raw.RawKernel object at 0x7f0440625c40>, 'cuda_map_hessian_into_angle_domain_ND_7D': <cupy._core.raw.RawKernel object at 0x7f0440625ec0>, 'cuda_map_hessian_into_angle_domain_ND_8D': <cupy._core.raw.RawKernel object at 0x7f0440625240>, 'cuda_cal_half_open_angle_2D': <cupy._core.raw.RawKernel object at 0x7f0440625a40>, 'cuda_tapering_mig_by_limit_or_cos_angle_1D': <cupy._core.raw.RawKernel object at 0x7f0440625f40>, 'cuda_map_image_into_angle_domain_1D': <cupy._core.raw.RawKernel object at 0x7f0440625dc0>, 'cuda_mig_multi_parameter_1D_test': <cupy._core.raw.RawKernel object at 0x7f04406258c0>}
+    dtype:There is no dtype
+
+
+    key:ray_kernel3d_dict
+    des:No description available
+    val:{'cuda_modeling_multi_parameter_3D': <cupy._core.raw.RawKernel object at 0x7f0440625cc0>, 'cuda_angle_kirchhoff_modeling_3D': <cupy._core.raw.RawKernel object at 0x7f04405b7bc0>, 'cuda_tapering_mig_by_limit_or_cos_angle_3D': <cupy._core.raw.RawKernel object at 0x7f04405b71c0>, 'cuda_cal_half_open_angle_3D': <cupy._core.raw.RawKernel object at 0x7f04405b76c0>}
+    dtype:There is no dtype
+
+
+    key:dims_len
+    des:No description available
+    val:2
+    dtype:There is no dtype
+
+
+    key:dims
+    des:operator dimension
+    val:[600, 700]
+    dtype:There is no dtype
+
+
+    key:dims_interval
+    des:No description available
+    val:[10.0, 10.0]
+    dtype:There is no dtype
+
+
+    key:module
+    des:No description available
+    val:<module 'cupy' from '/home/zhangjiwei/anaconda3/envs/py/lib/python3.9/site-packages/cupy/__init__.py'>
+    dtype:<class 'numpy.dtype'>
+
+
+    key:dz
+    des:No description available
+    val:10.0
+    dtype:float32
+
+
+    key:dx
+    des:No description available
+    val:10.0
+    dtype:float32
+
+
+    key:nnz
+    des:No description available
+    val:600
+    dtype:int32
+
+
+    key:nnx
+    des:No description available
+    val:700
+    dtype:int32
+
+
+    key:nnx_radius
+    des:No description available
+    val:698
+    dtype:int32
+
+
+    key:nnz_radius
+    des:No description available
+    val:598
+    dtype:int32
+
+
+    key:block_tuple
+    des:No description available
+    val:(32, 16)
+    dtype:There is no dtype
+
+
+    key:grid_tuple
+    des:No description available
+    val:(22, 38)
+    dtype:There is no dtype
+
+
+    key:F_oper_dict
+    des:No description available
+    val:{'lap_2D': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f0443d69310>, 'dxx_2D': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f044a75cca0>, 'dzz_2D': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f044a75cb80>, 'div_2D_forw': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f0440810820>, 'div_2D_back': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f0440810430>, 'grad_2D_forw': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f05b4b7bb80>, 'grad_2D_back': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f044a863af0>, 'dx_2D_forw': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f044a863b80>, 'dz_2D_forw': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f054e939f70>, 'dx_2D_back': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f054e939ee0>, 'dz_2D_back': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f04405a8d30>}
+    dtype:There is no dtype
+
+
+    key:grid
+    des:No description available
+    val:(22, 38)
+    dtype:There is no dtype
+
+
+    key:block
+    des:No description available
+    val:(32, 16)
+    dtype:There is no dtype
+
+
+    key:kernel_dict
+    des:No description available
+    val:{'lap_2D': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f0443d69310>, 'dxx_2D': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f044a75cca0>, 'dzz_2D': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f044a75cb80>, 'div_2D_forw': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f0440810820>, 'div_2D_back': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f0440810430>, 'grad_2D_forw': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f05b4b7bb80>, 'grad_2D_back': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f044a863af0>, 'dx_2D_forw': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f044a863b80>, 'dz_2D_forw': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f054e939f70>, 'dx_2D_back': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f054e939ee0>, 'dz_2D_back': <function define_cupy_derivative_F_space_2D.<locals>.<lambda> at 0x7f04405a8d30>}
+    dtype:There is no dtype
+
+
+    key:operator_dict
+    des:No description available
+    val:{}
+    dtype:There is no dtype
+
+

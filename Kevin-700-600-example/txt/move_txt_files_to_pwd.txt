@@ -1,0 +1,14 @@
+Created 'txt' folder.
+Moved 'Hes_Para_log.txt' to 'txt' folder.
+Moved 'ray_kernel3d_dict_log.txt' to 'txt' folder.
+Moved 'Mig_Para_log.txt' to 'txt' folder.
+Moved 'cupy_kernels.txt' to 'txt' folder.
+Moved 'wave_kernel_dict_log.txt' to 'txt' folder.
+Moved 'move_txt_files_to_pwd.txt' to 'txt' folder.
+Moved 'imshow.txt' to 'txt' folder.
+Moved 'FD2d_dict_log.txt' to 'txt' folder.
+Moved 'ray_kernel2d_dict_log.txt' to 'txt' folder.
+Moved 'kernel_list.txt' to 'txt' folder.
+Moved 'FD_operator_class_info.txt' to 'txt' folder.
+Moved 'FD3d_dict_log.txt' to 'txt' folder.
+All .txt files have been moved to the 'txt' folder.

@@ -1,0 +1,1510 @@
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/slope_vp-700-600
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/slope_vp-700-600.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: 0.0
+
+Key: vmax, Value: 300.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/slope_vp-700-600.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: m/s
+
+Key: cmap, Value: seismic
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 300.0 at index (360, 328)
+array_info min is 0.0 at index (0, 0)
+array_info mean is 0.7821428775787354
+array_info std is 15.29807186126709
+array_info rms is 15.318056106567383
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f0440799550>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f044074c7c0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{2}}\\mathdefault{}$')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/slope_vp-700-600
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vp-700-600
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vp-700-600.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: 1500.0
+
+Key: vmax, Value: 3000.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4, 2.4)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vp-700-600.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: m/s
+
+Key: cmap, Value: seismic
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 3000.0 at index (456, 252)
+array_info min is 1500.0 at index (0, 0)
+array_info mean is 2093.913330078125
+array_info std is 528.3131713867188
+array_info rms is 2159.533935546875
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(288x172.8)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(43.2,8.64;191.52x138.24)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04407e2490>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f0443d07520>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 142.968, '$\\times\\mathdefault{10^{3}}\\mathdefault{}$')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vp-700-600
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vp
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vp.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: 1500.0
+
+Key: vmax, Value: 3000.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4.5, 2.7)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vp.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: m/s
+
+Key: cmap, Value: gist_rainbow
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 3000.0 at index (456, 252)
+array_info min is 1500.0 at index (0, 0)
+array_info mean is 2093.913330078125
+array_info std is 528.3131713867188
+array_info rms is 2159.533935546875
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(324x194.4)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(48.6,9.72;215.46x155.52)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04407ba430>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f0443d07970>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 160.464, '$\\times\\mathdefault{10^{3}}\\mathdefault{}$')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vp
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-s-vp
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-s-vp.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: 1500.0
+
+Key: vmax, Value: 3000.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4.5, 2.7)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-s-vp.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: m/s
+
+Key: cmap, Value: gist_rainbow
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 3000.0 at index (583, 252)
+array_info min is 1500.0 at index (0, 0)
+array_info mean is 2093.913330078125
+array_info std is 516.0455322265625
+array_info rms is 2156.565673828125
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(324x194.4)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(48.6,9.72;215.46x155.52)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044059ce20>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f044064d460>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 160.464, '$\\times\\mathdefault{10^{3}}\\mathdefault{}$')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-s-vp
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-rel-vp
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-rel-vp.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.15868748724460602
+
+Key: vmax, Value: 0.20755763351917267
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4.5, 2.7)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-rel-vp.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative value
+
+Key: cmap, Value: gist_rainbow
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 0.20755763351917267 at index (392, 524)
+array_info min is -0.15868748724460602 at index (384, 668)
+array_info mean is -0.000788260658737272
+array_info std is 0.03103836067020893
+array_info rms is 0.031048370525240898
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(324x194.4)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(48.6,9.72;215.46x155.52)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044059cdc0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04405abb20>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 160.464, '')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-rel-vp
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/den
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/den.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: 1000.0
+
+Key: vmax, Value: 1000.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4.5, 2.7)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/den.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: kg/m$^3$
+
+Key: cmap, Value: gist_rainbow
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 1000.0 at index (0, 0)
+array_info min is 1000.0 at index (0, 0)
+array_info mean is 1000.0
+array_info std is 0.0
+array_info rms is 1000.0
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is False
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(324x194.4)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(48.6,9.72;215.46x155.52)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04407754f0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04406a93d0>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 160.464, '$\\times\\mathdefault{10^{3}}\\mathdefault{}$')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/den
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-s-den
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-s-den.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: 1000.0
+
+Key: vmax, Value: 1000.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4.5, 2.7)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-s-den.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: kg/m$^3$
+
+Key: cmap, Value: gist_rainbow
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 1000.0 at index (0, 0)
+array_info min is 1000.0 at index (0, 0)
+array_info mean is 1000.0
+array_info std is 0.0
+array_info rms is 1000.0
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(324x194.4)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(48.6,9.72;215.46x155.52)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04405ab940>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04407a4a60>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 160.464, '$\\times\\mathdefault{10^{3}}\\mathdefault{}$')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-s-den
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-rel-den
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-rel-den.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: 0.0
+
+Key: vmax, Value: 0.0
+
+Key: vmin_scale, Value: 1.0
+
+Key: vmax_scale, Value: 1.0
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4.5, 2.7)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-rel-den.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative value
+
+Key: cmap, Value: gist_rainbow
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 0.0 at index (0, 0)
+array_info min is 0.0 at index (0, 0)
+array_info mean is 0.0
+array_info std is 0.0
+array_info rms is 0.0
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(324x194.4)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(48.6,9.72;215.46x155.52)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04407926d0>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f044a762820>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 160.464, '$\\times\\mathdefault{10^{−2}}\\mathdefault{}$')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/20-rel-den
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vector_ref_dz_arr
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vector_ref_dz_arr.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.0033333338797092438
+
+Key: vmax, Value: 0.006862746085971594
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4.5, 2.7)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vector_ref_dz_arr.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative value
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 0.013725492171943188 at index (382, 684)
+array_info min is -0.0066666677594184875 at index (329, 283)
+array_info mean is 5.2957268053432927e-05
+array_info std is 0.0006516484427265823
+array_info rms is 0.0006537967128679156
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(324x194.4)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(48.6,9.72;215.46x155.52)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f044059cd30>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f04406a9a00>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 160.464, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vector_ref_dz_arr
+
+Key: ext, Value: .png
+
+
+
+
+
+
+
+Saved /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vector_ref_dx_arr
+
+
+
+
+
+ output_name=/home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vector_ref_dx_arr.png
+Key: x1beg, Value: 0
+
+Key: x1end, Value: 7.0
+
+Key: d1num, Value: 0
+
+Key: d1, Value: 0.01
+
+Key: num1, Value: 5
+
+Key: x2beg, Value: 0
+
+Key: x2end, Value: 6.0
+
+Key: d2num, Value: 0
+
+Key: d2, Value: 0.01
+
+Key: num2, Value: 5
+
+Key: xlabel, Value: Distance (km)
+
+Key: ylabel, Value: Depth (km)
+
+Key: xtick_positions, Value: 
+
+Key: xtick_lables, Value: 
+
+Key: ytick_positions, Value: 
+
+Key: ytick_lables, Value: 
+
+Key: vmin, Value: -0.009459461085498333
+
+Key: vmax, Value: 0.006862746085971594
+
+Key: vmin_scale, Value: 0.5
+
+Key: vmax_scale, Value: 0.5
+
+Key: FontSize, Value: (12, 12)
+
+Key: fontsize, Value: (11, 11)
+
+Key: legend_size, Value: (10, 10, 9)
+
+Key: figsize, Value: (4.5, 2.7)
+
+Key: title, Value: 
+
+Key: output_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vector_ref_dx_arr.png
+
+Key: pdf_dpi, Value: 100
+
+Key: png_dpi, Value: 200
+
+Key: other_dpi, Value: 200
+
+Key: plot_all_format, Value: False
+
+Key: output_bin, Value: False
+
+Key: output_npz, Value: False
+
+Key: interpolation, Value: none
+
+Key: colorbar, Value: True
+
+Key: colorbar_label, Value: Relative value
+
+Key: cmap, Value: gray
+
+Key: colorbar_text, Value: ('left', 'bottom')
+
+Key: colorbar_ticks, Value: 
+
+Key: colorbar_ticks_num, Value: 5
+
+Key: powerlimits, Value: (-1, 1)
+
+Key: axis_mark, Value: tight
+
+Key: xtop, Value: True
+
+Key: pltshow, Value: False
+
+Key: gca_remove, Value: False
+
+Key: output_info, Value: False
+
+Key: show_labelx, Value: True
+
+Key: show_labely, Value: True
+
+Key: show_axisx, Value: True
+
+Key: show_axisy, Value: True
+
+Key: bbox_inches, Value: tight
+
+Key: pad_inches, Value: 0.1
+
+Key: pltscatter_list, Value: [False, 'x_coords_arr', 'z_coords_arr', 'blue', '^', 80]
+
+Key: log_file, Value: imshow.txt
+
+Key: x_data_info, Value: 
+array_info allocate on numpy
+array_info shape is (600, 700)
+array_info max is 0.013725492171943188 at index (383, 683)
+array_info min is -0.018918922170996666 at index (389, 490)
+array_info mean is -5.274647719488712e-06
+array_info std is 0.0004425783408805728
+array_info rms is 0.00044260971480980515
+there is no device
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+
+Key: fig, Value: Figure(324x194.4)
+
+Key: ax1, Value: AxesSubplot(0.15,0.05;0.665x0.8)
+
+Key: im1, Value: AxesImage(48.6,9.72;215.46x155.52)
+
+Key: cbar, Value: <matplotlib.colorbar.Colorbar object at 0x7f04406fd640>
+
+Key: tick_format, Value: <matplotlib.ticker.ScalarFormatter object at 0x7f044070f160>
+
+Key: cbar_box, Value: Bbox(x0=0.822, y0=0.08999999999999986, x1=0.8435999999999999, y1=0.8099999999999999)
+
+Key: offset_text, Value: Text(1, 160.464, '$\\times\\mathdefault{10^{−3}}\\mathdefault{}$')
+
+Key: base_name, Value: /home/zhangjiwei/pyfunc/acq_info/Kevin-700-600-modify/in/vel-eps/vector_ref_dx_arr
+
+Key: ext, Value: .png
+
+
+
+
+
+
+

@@ -1,0 +1,384 @@
+Class name: Wave_Mig_Para
+default para self: self
+
+default para dims: dims: list = [1, 1, 1]
+
+default para dims_interval: dims_interval: list = [1, 1, 1]
+
+default para smooth_simga_list: smooth_simga_list: list = [1, 1, 1]
+
+default para angle_start: angle_start: float = -45.0
+
+default para angle_interval: angle_interval: float = 1.0
+
+default para angle_num: angle_num: int = 90
+
+default para angle_sigma: angle_sigma: float = 8.0
+
+default para angle_weight_len: angle_weight_len: int = 0
+
+default para angle_tapering_power: angle_tapering_power: float = 3.0
+
+default para angle_mig_bool: angle_mig_bool: int = 0
+
+default para angle_tapering_bool: angle_tapering_bool: int = 1
+
+default para angle_tapering_min_angle: angle_tapering_min_angle: float = 0
+
+default para mig_stable_coe: mig_stable_coe: float = 10.0
+
+default para mig_stable_position: mig_stable_position: int = 100
+
+default para imaging_condition_type: imaging_condition_type: int = 0
+
+default para division_mark: division_mark: int = 0
+
+default para mig_it_start: mig_it_start: int = 0
+
+default para recording_add_way: recording_add_way: int = 1
+
+default para use_cupy: use_cupy=True
+
+default para log_file: log_file='Wave_Mig_Para_log.txt'
+
+    key:readme
+    des:No description available
+    val:{}
+    dtype:There is no dtype
+
+
+    key:name
+    des:No description available
+    val:Wave_Mig_Para
+    dtype:There is no dtype
+
+
+    key:log_file
+    des:No description available
+    val:Mig_Para_log.txt
+    dtype:There is no dtype
+
+
+    key:use_cupy
+    des:No description available
+    val:True
+    dtype:There is no dtype
+
+
+    key:cpasnumpy_or
+    des:No description available
+    val:function
+    dtype:function
+
+
+    key:dims
+    des:When I will initalized the Class, I can set it as vel.T.shape for simplification
+Note that our array should be [nz, ny, nx]
+but when I will transfer the parameter into a function, I will always use [dx, dy, dz], dims=[nx, ny, nz], [start_x, start_y, start_z], [sx, sy, sz], [gx, gy, gz], [min_x, min_y, min_z], [max_x, max_y, max_z]
+All parameters are set as grid point (dx, dy, dz)
+    val:[700, 600]
+    dtype:There is no dtype
+
+
+    key:dims_interval
+    des:No description available
+    val:[10.0, 10.0]
+    dtype:There is no dtype
+
+
+    key:nx
+    des:No description available
+    val:700
+    dtype:int32
+
+
+    key:ny
+    des:No description available
+    val:1
+    dtype:int32
+
+
+    key:nz
+    des:No description available
+    val:600
+    dtype:int32
+
+
+    key:dx
+    des:No description available
+    val:10.0
+    dtype:float32
+
+
+    key:dy
+    des:No description available
+    val:1.0
+    dtype:float32
+
+
+    key:dz
+    des:No description available
+    val:10.0
+    dtype:float32
+
+
+    key:smooth_simga_list
+    des:list of float32
+Sigma parameters of Gaussian smooth filter for smoothing the velocity, density, and so on
+    val:[20, 4, 4]
+    dtype:There is no dtype
+
+
+    key:angle_start
+    des:float32
+start position of angle 
+(1) Angle-dependent Kirchhoff modeling (limited angle)
+(2) Extracting ADCIGs
+(3) Migration precondition
+(4) Hessian
+    val:0.0
+    dtype:float32
+
+
+    key:angle_interval
+    des:float32
+angle_interval  
+(1) Angle-dependent Kirchhoff modeling (limited angle)
+(2) Extracting ADCIGs
+(3) Migration precondition
+(4) Hessian
+    val:1.0
+    dtype:float32
+
+
+    key:angle_num
+    des:int32
+sampling number of angle_interval  
+(1) Angle-dependent Kirchhoff modeling (limited angle)
+(2) Extracting ADCIGs
+(3) Migration precondition
+(4) Hessian
+    val:50
+    dtype:int32
+
+
+    key:angle_sigma
+    des:float32
+denominator of weight factor for ADCIGs, mig = mig + mig_value * exp  -(int_angle-float_angle)*(int_angle-float_angle)/angle_sigma  
+(1) Angle-dependent Kirchhoff modeling (limited angle)
+(2) Extracting ADCIGs
+(3) Migration precondition
+(4) Hessian
+    val:8.0
+    dtype:float32
+
+
+    key:angle_weight_len
+    des:int32
+weight times/length for weight for ADCIGs   
+(1) Angle-dependent Kirchhoff modeling (limited angle)
+(2) Extracting ADCIGs
+(3) Migration precondition
+(4) Hessian
+    val:1
+    dtype:int32
+
+
+    key:angle_tapering_power
+    des:float32
+at the limited angle range, I will apply an weight factor on the ADCIGs and migrated image, this parameter is used for cos(\cita) ^ angle_tapering_power  
+(1) Angle-dependent Kirchhoff modeling (limited angle)
+(2) Extracting ADCIGs
+(3) Migration precondition
+(4) Hessian
+    val:3.0
+    dtype:float32
+
+
+    key:angle_end
+    des:float32
+self.angle_start + self.angle_num * self.angle_interval;
+    val:50.0
+    dtype:float32
+
+
+    key:angle_mig_bool
+    des:int32
+If it is non-zero, we will compute the ADCIGs and angle-dependent Hessian
+    val:1
+    dtype:int32
+
+
+    key:angle_tapering_bool
+    des:int32
+if angle_tapering_bool==0,  all angle parameters are not used for preconditions for ADCIGs and hessianIf angle_tapering_bool==1,  we will tapering the migrated image, Hessian operator based on the out of angle range provided by angle_para_list;If angle_tapering_bool==2,  we will apply cos^angle_tapering_power on the migrated image, not Hessian
+    val:1
+    dtype:int32
+
+
+    key:angle_tapering_min_angle
+    des:No description available
+    val:0.0
+    dtype:float32
+
+
+    key:mig_stable_coe
+    des:int32
+the parameter of division imaging condition: grid point in the depth direction, the final stable_coe is computed from mig_stable_coe * source_amplitude (sx, mig_stable_position) for Kirchhoff migration, RTM, one-way migration
+    val:10.0
+    dtype:float32
+
+
+    key:mig_stable_position
+    des:float32
+the parameter of division imaging condition: weight factor for division imaging condition, the final stable_coe is computed from mig_stable_coe * source_amplitude (sx, mig_stable_position) for Kirchhoff migration, RTM, one-way migration
+    val:599
+    dtype:int32
+
+
+    key:imaging_condition_type
+    des:int32
+imaging_condition_type, if it is 0, I will apply the cross-correlation imaging condition, 1, deconvolution,   2 scattering*
+    val:1
+    dtype:int32
+
+
+    key:division_mark
+    des:int32
+if it is 0, I will apply the multiply imaging condition, otherwise I will apply the division imaging condition
+    val:0
+    dtype:int32
+
+
+    key:mig_it_start
+    des:int32
+mig_it_start==0, we can not fullly reconstruct the wavefield at the source position, I intend to exclude these wavefields, when I will apply the imaging condition, so I set the it==mig_it_start
+    val:100
+    dtype:int32
+
+
+    key:recording_add_way
+    des:int32
+used for the main function
+    val:1
+    dtype:int32
+
+
+    key:mig1
+    des:np.array
+The modulus/K migrated  image,  vp=2*mig1, den=mig1+mig2
+    val:
+mig1 allocate on cupy
+mig1 shape is (600, 700)
+mig1 max is 0.0 at index (array(0), array(0))
+mig1 min is 0.0 at index (array(0), array(0))
+mig1 mean is 0.0
+mig1 std is 0.0
+mig1 rms is 0.0
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+    dtype:float32
+
+
+    key:mig2
+    des:np.array
+The image of denisty,  vp=2*mig1, den=mig1+mig2
+    val:
+mig2 allocate on cupy
+mig2 shape is (600, 700)
+mig2 max is 0.0 at index (array(0), array(0))
+mig2 min is 0.0 at index (array(0), array(0))
+mig2 mean is 0.0
+mig2 std is 0.0
+mig2 rms is 0.0
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+    dtype:float32
+
+
+    key:mig3
+    des:No description available
+    val:
+mig3 allocate on cupy
+mig3 shape is (600, 700)
+mig3 max is 0.0 at index (array(0), array(0))
+mig3 min is 0.0 at index (array(0), array(0))
+mig3 mean is 0.0
+mig3 std is 0.0
+mig3 rms is 0.0
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 1.6021728515625 MB
+
+    dtype:float32
+
+
+    key:angle_mig1
+    des:np.array
+angle-domain migration 1 for kirchhoff and born
+    val:
+angle_mig1 allocate on cupy
+angle_mig1 shape is (50, 600, 700)
+angle_mig1 max is 0.0 at index (array(0), array(0), array(0))
+angle_mig1 min is 0.0 at index (array(0), array(0), array(0))
+angle_mig1 mean is 0.0
+angle_mig1 std is 0.0
+angle_mig1 rms is 0.0
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 80.108642578125 MB
+
+    dtype:float32
+
+
+    key:angle_mig2
+    des:np.array
+angle-domain migration 2 for kirchhoff and born
+    val:
+angle_mig2 allocate on cupy
+angle_mig2 shape is (50, 600, 700)
+angle_mig2 max is 0.0 at index (array(0), array(0), array(0))
+angle_mig2 min is 0.0 at index (array(0), array(0), array(0))
+angle_mig2 mean is 0.0
+angle_mig2 std is 0.0
+angle_mig2 rms is 0.0
+device is <CUDA Device 0>
+dtype is float32
+array.flags['C_CONTIGUOUS'] is True
+array_memory(array) is 80.108642578125 MB
+
+    dtype:float32
+
+
+    key:plot_x_beg
+    des:No description available
+    val:0
+    dtype:There is no dtype
+
+
+    key:plot_y_beg
+    des:No description available
+    val:0
+    dtype:There is no dtype
+
+
+    key:plot_z_beg
+    des:No description available
+    val:0
+    dtype:There is no dtype
+
+
+    key:plot_a_beg
+    des:No description available
+    val:0
+    dtype:There is no dtype
+
+
